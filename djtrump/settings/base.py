@@ -133,3 +133,5 @@ STATICFILES_DIRS = (
 
 DONALD_IMAGES_PATH = os.path.join(BASE_DIR, 'djtrump/static/djtrump/images')
 BASE_API_URL = 'https://api.whatdoestrumpthink.com/api/v1'
+
+django_heroku.settings(locals())
