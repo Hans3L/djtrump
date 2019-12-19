@@ -17,5 +17,18 @@ __pycache__
 .idea
 
 /static
+<<<<<<< HEAD
 # venv
 /venv
+=======
+
+####venv
+venv/
+VENV/
+/venv
+venv
+VENV
+#env
+.env
+.ENV
+>>>>>>> test-branch
