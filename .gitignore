@@ -17,3 +17,13 @@ __pycache__
 .idea
 
 /static
+
+####venv
+venv/
+VENV/
+/venv
+venv
+VENV
+#env
+.env
+.ENV
