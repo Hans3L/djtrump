@@ -2,9 +2,9 @@
 <img src="djtrump/static/djtrump/app.png">
 
 ## Description
-A web app that shows Donald Trump and a random quote of his. Quotes can be personalized. The app makes use of [whatdoestrumpthink](https://whatdoestrumpthink.com/) API.
+Ejemplo web desplegado a plataformas app service.
 
-It is a sample django app intended for learning purposes only:
+Puede visitar el siguiente ejemplo en la siguiente dirección:
 
-[How to deploy a Django app to DigitalOcean](http://rahmonov.me/posts/deploy-a-django-app-to-digitalocean/)
+[How to deploy a Django app to Heroku](https://true-768.herokuapp.com/)
 
